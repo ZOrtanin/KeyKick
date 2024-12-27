@@ -11,6 +11,7 @@ from kivymd.app import MDApp
 from kivymd.uix.card import MDCardSwipe
 from kivymd.uix.selectioncontrol import MDCheckbox
 
+
 import io
 #import chardet
 import os
